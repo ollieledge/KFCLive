@@ -1,0 +1,10 @@
+numpy==1.24.2
+pandas==1.5.3
+Pillow==9.4.0
+Plost==0.2.5
+PyAutoGUI==0.9.53
+selenium==4.8.2
+streamlit==1.20.0
+tabula==1.0.5
+tabula_py==2.7.0
+twilio==7.16.5
